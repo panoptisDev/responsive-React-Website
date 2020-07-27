@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/responsiveReactWebsite/static/css/main.39d8b807.chunk.css",
+    "main.js": "/responsiveReactWebsite/static/js/main.680dcaed.chunk.js",
+    "main.js.map": "/responsiveReactWebsite/static/js/main.680dcaed.chunk.js.map",
+    "runtime-main.js": "/responsiveReactWebsite/static/js/runtime-main.22d0532e.js",
+    "runtime-main.js.map": "/responsiveReactWebsite/static/js/runtime-main.22d0532e.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/responsiveReactWebsite/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.98be3afc.chunk.js": "/responsiveReactWebsite/static/js/2.98be3afc.chunk.js",
+    "static/js/2.98be3afc.chunk.js.map": "/responsiveReactWebsite/static/js/2.98be3afc.chunk.js.map",
+    "index.html": "/responsiveReactWebsite/index.html",
+    "precache-manifest.21ef2488af7806396d25bf5db45cb40f.js": "/responsiveReactWebsite/precache-manifest.21ef2488af7806396d25bf5db45cb40f.js",
+    "service-worker.js": "/responsiveReactWebsite/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/responsiveReactWebsite/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.39d8b807.chunk.css.map": "/responsiveReactWebsite/static/css/main.39d8b807.chunk.css.map",
+    "static/js/2.98be3afc.chunk.js.LICENSE.txt": "/responsiveReactWebsite/static/js/2.98be3afc.chunk.js.LICENSE.txt",
+    "static/media/card1.png": "/responsiveReactWebsite/static/media/card1.fdd9a61b.png",
+    "static/media/wfh_1.svg": "/responsiveReactWebsite/static/media/wfh_1.2b9cbfb6.svg",
+    "static/media/wfh_7.svg": "/responsiveReactWebsite/static/media/wfh_7.bfaa07f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22d0532e.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.98be3afc.chunk.js",
+    "static/css/main.39d8b807.chunk.css",
+    "static/js/main.680dcaed.chunk.js"
+  ]
+}
